@@ -1,0 +1,53 @@
+.test1{
+  background-color: red;
+}
+
+.test2{
+  background-color: green;
+}
+
+.test3{
+  background-color: blue;
+}
+
+.test4{
+  background-color: brown;
+}
+
+.test5{
+  background-color: yellow;
+}
+
+.testcontainer{
+  background-color: black;
+  color: black;
+  height: auto;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 3%;
+  padding-right: 3%;
+
+}
+
+
+.box{
+  background-color: yellow;
+  padding: 2%;
+}
+
+.testcontainer1{
+  background-color: blue;
+  color: black;
+  height: auto;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 3%;
+  padding-right: 3%;
+
+}
+
+
+.box1{
+  background-color: pink;
+  padding: 2%;
+}
