@@ -1,22 +1,6 @@
-.test1{
-  background-color: red;
-}
-
-.test2{
-  background-color: green;
-}
-
-.test3{
-  background-color: blue;
-}
-
-.test4{
-  background-color: brown;
-}
-
-.test5{
-  background-color: yellow;
-}
+/***************************************************************/
+/*********************Global Settings***************************/
+/***************************************************************/
 
 .testcontainer{
   background-color: black;
@@ -50,4 +34,44 @@
 .box1{
   background-color: pink;
   padding: 2%;
+}
+
+/***************************************************************/
+/*********************Nav Settings***************************/
+/***************************************************************/
+
+.navigation_box{
+  border-bottom : 1px black solid;
+}
+
+.test1{
+  background-color: red;
+}
+
+.test2{
+  background-color: green;
+}
+
+.test3{
+  background-color: blue;
+}
+
+.test4{
+  background-color: brown;
+}
+
+.test5{
+  background-color: yellow;
+}
+
+.test6{
+  background-color: white;
+}
+
+.test7{
+  background-color: purple;
+}
+
+.test8{
+  background-color: pink;
 }
